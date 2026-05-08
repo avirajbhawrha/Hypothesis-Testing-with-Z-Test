@@ -71,7 +71,3 @@ jupyter notebook
 
  Results
 The project successfully demonstrates how statistical testing can be automated using Python, making analysis faster and more reliable.
-
- Author
-
-Aviraj
